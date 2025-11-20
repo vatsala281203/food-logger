@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Food Logger — Demo</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header style="text-align: center;">
+        <h1 style="font-size: 3rem;">Food Logger</h1>
+        <p class="subtitle">Capture food → get nutrition → log meals (offline)</p>
+    </header>
+
+
+    <main>
+      <section class="left card">
+        <video id="video" autoplay playsinline></video>
+        <div class="controls">
+          <label>Serving (g)
+            <input id="serv" type="number" value="100" min="1" />
+          </label>
+          <button id="capture" class="btn primary">Capture</button>
+          <button id="clearAll" class="btn ghost">Clear Logs</button>
+        </div>
+        <img id="thumb" class="thumb" alt="Captured preview" />
+      </section>
+
+      <section class="right card">
+        <div id="predictionBox">
+          <div id="predStatus" class="muted">No prediction yet.</div>
+          <div id="predDetails"></div>
+        </div>
+
+        <h3>Today's logs</h3>
+        <div id="logs" class="logs"></div>
+        <div id="totals" class="totals"></div>
+      </section>
+    </main>
+
+    <footer>
+      <small>Model: MobileNetV2 transfer learning • Local inference via Flask</small>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

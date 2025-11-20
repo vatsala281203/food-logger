@@ -1,0 +1,722 @@
+{
+  "Baked Potato": {
+    "calories_kcal_per_100g": 93.0,
+    "protein_g_per_100g": 2.5,
+    "carbohydrates_g_per_100g": 21.0,
+    "fat_g_per_100g": 0.1,
+    "fiber_g_per_100g": 2.2,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Crispy Chicken": {
+    "calories_kcal_per_100g": 260.0,
+    "protein_g_per_100g": 18.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 15.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Donut": {
+    "calories_kcal_per_100g": 420.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 51.0,
+    "fat_g_per_100g": 25.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Fries": {
+    "calories_kcal_per_100g": 312.0,
+    "protein_g_per_100g": 3.4,
+    "carbohydrates_g_per_100g": 41.0,
+    "fat_g_per_100g": 15.0,
+    "fiber_g_per_100g": 3.8,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Hot Dog": {
+    "calories_kcal_per_100g": 290.0,
+    "protein_g_per_100g": 11.0,
+    "carbohydrates_g_per_100g": 24.0,
+    "fat_g_per_100g": 18.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Sandwich": {
+    "calories_kcal_per_100g": 250.0,
+    "protein_g_per_100g": 9.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Taco": {
+    "calories_kcal_per_100g": 226.0,
+    "protein_g_per_100g": 12.0,
+    "carbohydrates_g_per_100g": 20.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "Taquito": {
+    "calories_kcal_per_100g": 268.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 22.0,
+    "fat_g_per_100g": 16.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "adhirasam": {
+    "calories_kcal_per_100g": 420.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 55.0,
+    "fat_g_per_100g": 20.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "aloo_gobi": {
+    "calories_kcal_per_100g": 120.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 15.0,
+    "fat_g_per_100g": 5.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "aloo_matar": {
+    "calories_kcal_per_100g": 110.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 14.0,
+    "fat_g_per_100g": 5.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "aloo_methi": {
+    "calories_kcal_per_100g": 105.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 13.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "aloo_shimla_mirch": {
+    "calories_kcal_per_100g": 100.0,
+    "protein_g_per_100g": 2.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "aloo_tikki": {
+    "calories_kcal_per_100g": 215.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "apple_pie": {
+    "calories_kcal_per_100g": 237.0,
+    "protein_g_per_100g": 2.4,
+    "carbohydrates_g_per_100g": 34.0,
+    "fat_g_per_100g": 11.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "bandar_laddu": {
+    "calories_kcal_per_100g": 450.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 50.0,
+    "fat_g_per_100g": 22.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "basundi": {
+    "calories_kcal_per_100g": 250.0,
+    "protein_g_per_100g": 7.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "bhatura": {
+    "calories_kcal_per_100g": 310.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "bhindi_masala": {
+    "calories_kcal_per_100g": 110.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 4.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "biryani": {
+    "calories_kcal_per_100g": 230.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 9.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "boondi": {
+    "calories_kcal_per_100g": 550.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 38.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "burger": {
+    "calories_kcal_per_100g": 295.0,
+    "protein_g_per_100g": 17.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 1.5,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "butter_chicken": {
+    "calories_kcal_per_100g": 240.0,
+    "protein_g_per_100g": 14.0,
+    "carbohydrates_g_per_100g": 6.0,
+    "fat_g_per_100g": 16.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "butter_naan": {
+    "calories_kcal_per_100g": 340.0,
+    "protein_g_per_100g": 9.0,
+    "carbohydrates_g_per_100g": 52.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chai": {
+    "calories_kcal_per_100g": 62.0,
+    "protein_g_per_100g": 1.0,
+    "carbohydrates_g_per_100g": 10.0,
+    "fat_g_per_100g": 2.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "cham_cham": {
+    "calories_kcal_per_100g": 240.0,
+    "protein_g_per_100g": 7.0,
+    "carbohydrates_g_per_100g": 35.0,
+    "fat_g_per_100g": 8.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chana_masala": {
+    "calories_kcal_per_100g": 165.0,
+    "protein_g_per_100g": 9.0,
+    "carbohydrates_g_per_100g": 27.0,
+    "fat_g_per_100g": 3.0,
+    "fiber_g_per_100g": 7.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chapati": {
+    "calories_kcal_per_100g": 120.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 20.0,
+    "fat_g_per_100g": 2.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "cheesecake": {
+    "calories_kcal_per_100g": 320.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 25.0,
+    "fat_g_per_100g": 22.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chicken_curry": {
+    "calories_kcal_per_100g": 180.0,
+    "protein_g_per_100g": 20.0,
+    "carbohydrates_g_per_100g": 6.0,
+    "fat_g_per_100g": 8.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chicken_tikka": {
+    "calories_kcal_per_100g": 150.0,
+    "protein_g_per_100g": 18.0,
+    "carbohydrates_g_per_100g": 3.0,
+    "fat_g_per_100g": 5.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chikki": {
+    "calories_kcal_per_100g": 500.0,
+    "protein_g_per_100g": 12.0,
+    "carbohydrates_g_per_100g": 50.0,
+    "fat_g_per_100g": 25.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "chole_bhature": {
+    "calories_kcal_per_100g": 350.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 14.0,
+    "fiber_g_per_100g": 6.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "daal_baati_churma": {
+    "calories_kcal_per_100g": 380.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 45.0,
+    "fat_g_per_100g": 15.0,
+    "fiber_g_per_100g": 4.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "daal_puri": {
+    "calories_kcal_per_100g": 300.0,
+    "protein_g_per_100g": 8.0,
+    "carbohydrates_g_per_100g": 38.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "dal_makhani": {
+    "calories_kcal_per_100g": 250.0,
+    "protein_g_per_100g": 9.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 6.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "dal_tadka": {
+    "calories_kcal_per_100g": 110.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "dharwad_pedha": {
+    "calories_kcal_per_100g": 420.0,
+    "protein_g_per_100g": 8.0,
+    "carbohydrates_g_per_100g": 50.0,
+    "fat_g_per_100g": 18.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "dhokla": {
+    "calories_kcal_per_100g": 160.0,
+    "protein_g_per_100g": 7.0,
+    "carbohydrates_g_per_100g": 25.0,
+    "fat_g_per_100g": 5.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "dum_aloo": {
+    "calories_kcal_per_100g": 160.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 18.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "fried_rice": {
+    "calories_kcal_per_100g": 210.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 8.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "gajar_ka_halwa": {
+    "calories_kcal_per_100g": 250.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "gavvalu": {
+    "calories_kcal_per_100g": 450.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 60.0,
+    "fat_g_per_100g": 20.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "ghevar": {
+    "calories_kcal_per_100g": 500.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 55.0,
+    "fat_g_per_100g": 25.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "gujiya": {
+    "calories_kcal_per_100g": 450.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 55.0,
+    "fat_g_per_100g": 20.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Approximate per-100g values for gujiya (demo placeholder)."
+  },
+  "gulab_jamun": {
+    "calories_kcal_per_100g": 300.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 14.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "ice_cream": {
+    "calories_kcal_per_100g": 207.0,
+    "protein_g_per_100g": 3.5,
+    "carbohydrates_g_per_100g": 24.0,
+    "fat_g_per_100g": 11.0,
+    "fiber_g_per_100g": 0.7,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "idli": {
+    "calories_kcal_per_100g": 60.0,
+    "protein_g_per_100g": 2.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 0.4,
+    "fiber_g_per_100g": 0.8,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "imarti": {
+    "calories_kcal_per_100g": 420.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 60.0,
+    "fat_g_per_100g": 15.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "jalebi": {
+    "calories_kcal_per_100g": 350.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 60.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kaathi_rolls": {
+    "calories_kcal_per_100g": 260.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kachori": {
+    "calories_kcal_per_100g": 260.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kadai_paneer": {
+    "calories_kcal_per_100g": 220.0,
+    "protein_g_per_100g": 12.0,
+    "carbohydrates_g_per_100g": 8.0,
+    "fat_g_per_100g": 14.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kadhi_pakoda": {
+    "calories_kcal_per_100g": 160.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 14.0,
+    "fat_g_per_100g": 9.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kalakand": {
+    "calories_kcal_per_100g": 280.0,
+    "protein_g_per_100g": 8.0,
+    "carbohydrates_g_per_100g": 25.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "karela_bharta": {
+    "calories_kcal_per_100g": 130.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 10.0,
+    "fat_g_per_100g": 8.0,
+    "fiber_g_per_100g": 4.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kofta": {
+    "calories_kcal_per_100g": 210.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 12.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "kulfi": {
+    "calories_kcal_per_100g": 200.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 19.0,
+    "fat_g_per_100g": 11.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "lassi": {
+    "calories_kcal_per_100g": 130.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 14.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "litti_chokha": {
+    "calories_kcal_per_100g": 260.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 32.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 5.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "maach_jhol": {
+    "calories_kcal_per_100g": 130.0,
+    "protein_g_per_100g": 16.0,
+    "carbohydrates_g_per_100g": 4.0,
+    "fat_g_per_100g": 5.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "makki_di_roti_sarson_da_saag": {
+    "calories_kcal_per_100g": 180.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 20.0,
+    "fat_g_per_100g": 8.0,
+    "fiber_g_per_100g": 5.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "malapua": {
+    "calories_kcal_per_100g": 310.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "masala_dosa": {
+    "calories_kcal_per_100g": 185.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "misi_roti": {
+    "calories_kcal_per_100g": 150.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 22.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 4.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "misti_doi": {
+    "calories_kcal_per_100g": 140.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 16.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "modak": {
+    "calories_kcal_per_100g": 200.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "momos": {
+    "calories_kcal_per_100g": 150.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 20.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "mysore_pak": {
+    "calories_kcal_per_100g": 500.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 50.0,
+    "fat_g_per_100g": 30.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "naan": {
+    "calories_kcal_per_100g": 300.0,
+    "protein_g_per_100g": 9.0,
+    "carbohydrates_g_per_100g": 50.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "navrattan_korma": {
+    "calories_kcal_per_100g": 210.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 16.0,
+    "fat_g_per_100g": 14.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "omelette": {
+    "calories_kcal_per_100g": 154.0,
+    "protein_g_per_100g": 11.0,
+    "carbohydrates_g_per_100g": 1.2,
+    "fat_g_per_100g": 11.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "paani_puri": {
+    "calories_kcal_per_100g": 320.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 40.0,
+    "fat_g_per_100g": 20.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "pakode": {
+    "calories_kcal_per_100g": 350.0,
+    "protein_g_per_100g": 8.0,
+    "carbohydrates_g_per_100g": 30.0,
+    "fat_g_per_100g": 22.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "palak_paneer": {
+    "calories_kcal_per_100g": 180.0,
+    "protein_g_per_100g": 10.0,
+    "carbohydrates_g_per_100g": 6.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "paneer_butter_masala": {
+    "calories_kcal_per_100g": 320.0,
+    "protein_g_per_100g": 14.0,
+    "carbohydrates_g_per_100g": 10.0,
+    "fat_g_per_100g": 24.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "pav_bhaji": {
+    "calories_kcal_per_100g": 220.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 4.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "phirni": {
+    "calories_kcal_per_100g": 150.0,
+    "protein_g_per_100g": 4.0,
+    "carbohydrates_g_per_100g": 25.0,
+    "fat_g_per_100g": 4.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "pizza": {
+    "calories_kcal_per_100g": 266.0,
+    "protein_g_per_100g": 12.0,
+    "carbohydrates_g_per_100g": 33.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 2.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "poha": {
+    "calories_kcal_per_100g": 130.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 26.0,
+    "fat_g_per_100g": 2.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "rabri": {
+    "calories_kcal_per_100g": 210.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 18.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "ras_malai": {
+    "calories_kcal_per_100g": 240.0,
+    "protein_g_per_100g": 7.0,
+    "carbohydrates_g_per_100g": 25.0,
+    "fat_g_per_100g": 10.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "rasgulla": {
+    "calories_kcal_per_100g": 260.0,
+    "protein_g_per_100g": 7.0,
+    "carbohydrates_g_per_100g": 45.0,
+    "fat_g_per_100g": 6.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "samosa": {
+    "calories_kcal_per_100g": 308.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 33.0,
+    "fat_g_per_100g": 17.0,
+    "fiber_g_per_100g": 3.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "sandesh": {
+    "calories_kcal_per_100g": 230.0,
+    "protein_g_per_100g": 8.0,
+    "carbohydrates_g_per_100g": 20.0,
+    "fat_g_per_100g": 12.0,
+    "fiber_g_per_100g": 0.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "shankarpali": {
+    "calories_kcal_per_100g": 480.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 65.0,
+    "fat_g_per_100g": 20.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "sohan_halwa": {
+    "calories_kcal_per_100g": 420.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 55.0,
+    "fat_g_per_100g": 18.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "sohan_papdi": {
+    "calories_kcal_per_100g": 500.0,
+    "protein_g_per_100g": 6.0,
+    "carbohydrates_g_per_100g": 55.0,
+    "fat_g_per_100g": 25.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "sushi": {
+    "calories_kcal_per_100g": 140.0,
+    "protein_g_per_100g": 3.0,
+    "carbohydrates_g_per_100g": 28.0,
+    "fat_g_per_100g": 2.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  },
+  "sutar_feni": {
+    "calories_kcal_per_100g": 480.0,
+    "protein_g_per_100g": 5.0,
+    "carbohydrates_g_per_100g": 60.0,
+    "fat_g_per_100g": 22.0,
+    "fiber_g_per_100g": 1.0,
+    "notes": "Values represent typical per-100g estimates for common recipes (approximate)."
+  }
+}
